@@ -1,0 +1,6 @@
+{
+  "name": "Music Interval Trainer",
+  "description": "An application for practicing music theory intervals. It displays a two-note chord on a staff, and the user must identify the correct interval.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
